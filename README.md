@@ -18,7 +18,7 @@ This project involved building a simplified Unix shell named wish, designed to m
 
 - Error Handling: All errors are caught and reported with a consistent message via stderr.
 
-What I Learned:
+## What I Learned:
 
 - Deepened my understanding of the Linux programming environment and process lifecycle.
 
